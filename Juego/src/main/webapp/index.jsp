@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>prueba</title>
+<title>Version 1.0.0</title>
 </head>
 <body>
 </body>
